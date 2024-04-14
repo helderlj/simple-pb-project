@@ -1,3 +1,3 @@
-# another_pb_proj
+# Flutter + Pocketbase = 🖤
 
-A new Flutter project.
+Projeto de Estudo sobre backend Pocketbase como alternativa a estruturas serveless.
